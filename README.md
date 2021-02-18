@@ -2,10 +2,13 @@
 Building a fully functioning clone of the famous Uber ride sharing application
 
 
+
 #### Authentication
 <p float="left">
   <img src="https://raw.githubusercontent.com/Mohaaaa2012/Uber-Clone/master/ScreenShots/1-Login.jpeg" width="200" />
   <img src="https://raw.githubusercontent.com/Mohaaaa2012/Uber-Clone/master/ScreenShots/2-%20Signup.jpeg" width="200" />
+  <img src="https://raw.githubusercontent.com/Mohaaaa2012/Uber-Clone/master/ScreenShots/19-Logout.jpeg" width="200" /> 
+
 </p>
 
 #### Passenger Side of Application
