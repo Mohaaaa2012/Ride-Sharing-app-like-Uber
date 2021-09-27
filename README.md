@@ -1,4 +1,4 @@
-# Uber-Clone
+# Ride Sharing app like Uber
 Building a fully functioning clone of the famous Uber ride sharing application
 
 
